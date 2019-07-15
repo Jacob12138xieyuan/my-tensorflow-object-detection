@@ -5,6 +5,9 @@
 ## Main file
 video_graffiti_detection.py, I have modeified the code to work on video or webcam. In this case, it detects the graffiti showing in the video. To detect other things, simply change pb file download from model zoo and change lable file in data folder.
 
+## Demo video
+https://www.youtube.com/watch?v=9s-yZ98rpGM
+
 
 ## Table of contents
 
